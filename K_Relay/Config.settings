@@ -3,16 +3,16 @@
   <Profiles />
   <Settings>
     <Setting Name="DefaultServerName" Type="System.String" Scope="User">
-      <Value Profile="(Default)">USWest</Value>
+      <Value Profile="(Default)">EUNorth</Value>
     </Setting>
     <Setting Name="StartProxyByDefault" Type="System.Boolean" Scope="User">
       <Value Profile="(Default)">True</Value>
     </Setting>
     <Setting Name="Style" Type="MetroFramework.MetroColorStyle" Scope="User">
-      <Value Profile="(Default)">Default</Value>
+      <Value Profile="(Default)">Pink</Value>
     </Setting>
     <Setting Name="Theme" Type="MetroFramework.MetroThemeStyle" Scope="User">
-      <Value Profile="(Default)">Default</Value>
+      <Value Profile="(Default)">Light</Value>
     </Setting>
   </Settings>
 </SettingsFile>
